@@ -50,3 +50,4 @@ echo $NAME
 CAT
 cat
 cat name.txt
+cat < name.txt
