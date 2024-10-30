@@ -47,3 +47,5 @@ echo $NAME
 __vsc_prompt_cmd_original
 echo zee
 echo $NAME
+CAT
+cat
