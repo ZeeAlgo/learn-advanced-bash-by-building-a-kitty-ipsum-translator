@@ -51,3 +51,4 @@ CAT
 cat
 cat name.txt
 cat < name.txt
+echo zee
