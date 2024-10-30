@@ -91,3 +91,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 __vsc_prompt_cmd_original
 echo zz
 ./script.sh < name.txt
+./script.sh < name.txt 2> stderr.txt
