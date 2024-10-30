@@ -53,3 +53,4 @@ cat name.txt
 cat < name.txt
 echo zee
 touch script.sh
+chmod +x script.sh
