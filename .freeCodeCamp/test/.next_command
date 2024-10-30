@@ -49,3 +49,4 @@ echo zee
 echo $NAME
 CAT
 cat
+cat name.txt
